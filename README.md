@@ -1,5 +1,10 @@
 ## Players 4 u
 ## Table of Content
+content |  describe
+--------| ----------
+Team | name and student id
+Avatar |  images
+Meaning | codes
 ## [Team] 
 * Amandeep 1896409
 * Harbir 1895897
