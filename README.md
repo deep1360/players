@@ -1,6 +1,6 @@
 ## Players 4 u
 ## Table of Content
-## [Team] (team)
+## [Team] (#Team)
 ## Avatar
 ## Meaning
 
