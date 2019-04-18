@@ -12,4 +12,15 @@
 ![image](https://user-images.githubusercontent.com/49278262/56368637-d4506180-61c5-11e9-8418-6efcf9ad2053.png)
 
 ## Meaning
-
+``` amandeep
+he is good
+```
+``` sagar
+do or die
+```
+``` manjinder
+he is nice
+```
+``` harbir
+he is smart
+```
