@@ -4,7 +4,7 @@
 ## Avatar
 ## Meaning
 
-### * Amandeep 1896409
-### * Harbir 1895897
-### * Manjinderpal 1896356
-### * Sagar 1895739
+ * Amandeep 1896409
+* Harbir 1895897
+ * Manjinderpal 1896356
+ * Sagar 1895739
